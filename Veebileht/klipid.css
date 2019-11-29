@@ -91,3 +91,8 @@ img{
     top: -140px;
 
 }
+.thumb img:hover,
+.desc:hover {
+	cursor: pointer;
+	opacity: 0.9
+}
