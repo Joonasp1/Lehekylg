@@ -4,15 +4,6 @@
 	padding: 0;
 }
 
-h1{
-	font-size: 60px;
-	font-family: "verdana";
-	text-align: center;
-	color: gray;
-	margin: 0;
-	padding: 0;
-}
-
 p{
 	font-size: 25px;
 	font-family: "courier new";
@@ -20,9 +11,17 @@ p{
 }
 
 a:link{
-	color: black;
+	color: #bbab9b;
 	text-decoration: none;
 	font-family: "courier new";
+}
+
+a:hover{
+	opacity: 0.5;
+}
+
+a:visited{
+	color: #bbab9b;
 }
 
 img{
@@ -31,22 +30,17 @@ img{
 	padding: auto;
 }
 
-.ülakast{
-	background-color: #4f3222;
-	border-radius: 0px 0px 25px 25px;
- 	
-}
-
 .lingid{
-	background-color: #d4ac6e;
 	font-size: 40px;
 	text-align: center;
-	border-radius: 0px 0px 25px 25px;
+
 }
 
 .link{
 	width: 25%;
-	margin: 50px;
+	margin: 100px;
+	padding: 10px 10px 10px 10px;
+	background-color: #4f3222;
 }
 
 iframe {
