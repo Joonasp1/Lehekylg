@@ -2,6 +2,7 @@
 	font-size: 20px;
 	max-width: 60%;
 	float: left;
+	padding: 0% 4%;
 }
 
 .isikupilt{
@@ -13,7 +14,9 @@
 
 .nimi{
 	font-size: 50px;
-	text-align: center;
+	position: relative;
 	color: black;
-	padding-top: 50px
+	padding-top: 50px;
+	width: auto;
+	left: 26%;
 }
