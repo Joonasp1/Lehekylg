@@ -28,7 +28,6 @@ a:visited{
 img{
 	display: block;
 	margin: auto;
-	padding: auto;
 }
 
 .lingid{
@@ -47,6 +46,7 @@ img{
 iframe {
    display: block;
    margin: auto;
-   padding-top: -5%;
+   border: none;
 }
+
 
